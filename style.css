@@ -1,8 +1,12 @@
 body{
+    
     background-color: rgb(53, 85, 34);
     color: black;
     text-align: center;
+
 }
+
+
 span{ 
     color: rgb(0, 138, 0);
 }
