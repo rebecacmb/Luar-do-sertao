@@ -21,6 +21,12 @@ body{
     font-size: 20px;
 
 }
+
+.manchete{
+text-align: justify;
+
+}
+
 @media screen and (min-width: 1024px) {
    
 }
