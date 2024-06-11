@@ -7,8 +7,9 @@ body{
 }
 
 img{
-    width: 1800px;
-    height: 683px;
+    border: 2px solid darkgray;
+    width: 1900px;
+    height: 700px;
 
 }
 
