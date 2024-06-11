@@ -1,22 +1,20 @@
 body{
 
     background-color: rgb(53, 85, 34);
-    color: black;
+    color: rgb(196, 41, 41);
     text-align: center;
-
 }
 
-img{
-    
-    width: 1650px;
-    height: 642px;
-
-}
-
-span{ 
-    color: rgb(0, 138, 0);
-}
 
 .intro{
     background-image: url(luar\ no\ sertão.jpg);
+    height: 295px;
+    background-size: 100% 100%;
 }
+
+@media screen and (min-width: 1024px) {
+    body{
+        color: white;
+    }
+}
+
