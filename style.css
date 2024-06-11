@@ -26,6 +26,9 @@ body{
 text-align: justify;
 
 }
+.centro{
+    text-align: center;
+}
 
 @media screen and (min-width: 1024px) {
    
