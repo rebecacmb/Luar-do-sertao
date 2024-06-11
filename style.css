@@ -10,11 +10,12 @@ body{
     background-image: url(luar\ no\ sertão.jpg);
     height: 295px;
     background-size: 100% 100%;
+    display: block;
 }
 
 @media screen and (min-width: 1024px) {
-    body{
-        color: white;
+    .intro{
+        display: none;
     }
 }
 
