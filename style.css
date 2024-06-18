@@ -30,7 +30,14 @@ text-align: justify;
     text-align: center;
 }
 
-@media screen and (min-width: 1024px) {
-   
+@media screen and (min-width: 1024px) {   
+    body{
+        background-color: rgb(106, 187, 60);
+    }
+
 }
 
+
+@media screen and (min-width: 1728px) {   
+
+}
