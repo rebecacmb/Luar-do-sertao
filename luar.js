@@ -1,4 +1,4 @@
-const botoes= document.querySelectorAll('.objetivos');
+const botoes= document.querySelectorAll('funçoes');
 // botoes.length
 const texto= document.querySelectorAll('.aba-conteudo');
 
