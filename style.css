@@ -51,6 +51,7 @@ text-align:center;
 }
 .centro{
     text-align: center;
+    text-decoration-color: black;
 }
 
 @media screen and (min-width: 1024px) {   
